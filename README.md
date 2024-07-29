@@ -9,3 +9,13 @@ It is a responsive contact form which is created with Reactjs.
 - Reactjs
 - JavaScript
 - CSS
+
+## How to Start?
+
+```
+npm start
+```
+
+```
+npm run dev
+```
